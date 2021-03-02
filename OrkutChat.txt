@@ -1,0 +1,7 @@
+Orkut Chat Application
+Author: Sridhar Ravichandran
+
+1. Profile Page Code
+2. Chat Page Code
+3. Last seen Code
+4. Attachment(Image, Audio & video) Code
