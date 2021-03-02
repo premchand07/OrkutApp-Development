@@ -5,3 +5,4 @@ Author: Sridhar Ravichandran
 2. Chat Page Code
 3. Last seen Code
 4. Attachment(Image, Audio & video) Code
+5. Help Page Code
