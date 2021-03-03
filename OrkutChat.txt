@@ -6,5 +6,5 @@ Author: Sridhar Ravichandran
 3. Last seen Code
 4. Attachment(Image, Audio & video) Code
 5. Help Page Code
-6. Video Feature
+6. Video Feature Code.
 7. Fork Feature.
